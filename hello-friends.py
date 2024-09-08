@@ -1,0 +1,1 @@
+print("Hello my friends! I am s1234y. I want to be the greatest hacker.")
